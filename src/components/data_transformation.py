@@ -11,7 +11,6 @@ from sklearn.pipeline import Pipeline
 from src.exception import CustomException
 from src.utils import *
 from src.logger import logging
-import pickle
 
 
 @dataclass
